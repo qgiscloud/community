@@ -18,4 +18,4 @@ This is a community-driven forum, not an official technical support channel.
 
 The QGIS Cloud team may participate occasionally, but responses are voluntary and not guaranteed.
 
-For official technical support, please use the support channels available with your QGIS Cloud subscription.
+For official technical support, please visit [QGIS Cloud Support](https://support.qgiscloud.com/).
